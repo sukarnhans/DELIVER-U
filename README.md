@@ -21,3 +21,22 @@ DeliverU is a campus-based delivery platform that allows students to notify othe
 3️⃣ **Deliver & Earn** – Bring the requested items and get rewarded.  
 
 ## 🏗️ Project Structure  
+
+## 📷 Screenshot  
+![DeliverU](IMG_2709.JPG)  
+
+## 📌 Future Improvements  
+- ✅ User authentication system  
+- ✅ Payment gateway integration  
+- ✅ Order tracking system  
+
+## 👨‍💻 Contributing  
+Feel free to contribute to this project by forking the repo and submitting a pull request!  
+
+## 📄 License  
+This project is licensed under the **MIT License**.  
+
+---
+
+🚀 **Developed by [Sukarn Hans](https://github.com/sukarnhans)**  
+
