@@ -23,7 +23,8 @@ DeliverU is a campus-based delivery platform that allows students to notify othe
 ## 🏗️ Project Structure  
 
 ## 📷 Screenshot  
-![DeliverU](IMG_2709.JPG)  
+![DeliverU](![image](https://github.com/user-attachments/assets/fed6b240-f9c8-4a3c-be4f-e3387c1aaa2f)
+
 
 ## 📌 Future Improvements  
 - ✅ User authentication system  
