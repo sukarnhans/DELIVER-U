@@ -1,6 +1,10 @@
 # DeliverU 🚀  
 **Bringing Convenience to Your Campus**  
 
+## 📷 Screenshot  
+![DeliverU](![image](https://github.com/user-attachments/assets/fed6b240-f9c8-4a3c-be4f-e3387c1aaa2f)
+
+
 ## 📌 Overview  
 DeliverU is a campus-based delivery platform that allows students to notify others when they are heading out, helping them buy essentials like food, milk, or fruits. In return, they can earn extra cash by assisting their peers.  
 
@@ -21,9 +25,6 @@ DeliverU is a campus-based delivery platform that allows students to notify othe
 3️⃣ **Deliver & Earn** – Bring the requested items and get rewarded.  
 
 ## 🏗️ Project Structure  
-
-## 📷 Screenshot  
-![DeliverU](![image](https://github.com/user-attachments/assets/fed6b240-f9c8-4a3c-be4f-e3387c1aaa2f)
 
 
 ## 📌 Future Improvements  
